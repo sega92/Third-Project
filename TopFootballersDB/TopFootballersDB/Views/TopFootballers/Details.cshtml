@@ -1,0 +1,45 @@
+﻿@model TopFootballersDB.Models.TopFootballersTable
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Player Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Player Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Player_Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Picture)
+        </dt>
+        <dd>
+            <img src="@Url.Content(Model.Picture)" height="100" />
+        </dd>
+        <dt>
+            Place of Birth
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Place_of_Birth)
+        </dd>
+        <dt>
+           Height
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Height)
+        </dd>
+        <dt>
+           Playing Position
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Playing_Position)
+        </dd>
+    </dl>
+</div>
+

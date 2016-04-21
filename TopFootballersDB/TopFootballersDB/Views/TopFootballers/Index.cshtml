@@ -1,0 +1,77 @@
+﻿@model IEnumerable<TopFootballersDB.Models.TopFootballersTable>
+
+@{
+    ViewBag.Title = "Top Footballers 2016";
+}
+
+<h2>Top Footballers 2016</h2>
+<br />
+<h4>
+    @Html.ActionLink("Add New Footballer", "Add")</h4>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Position: @Html.DropDownList("playerPosition", "All")
+        Name: @Html.TextBox("SearchString")
+        <input type="submit" value="Filter" />
+    </p>
+
+
+}
+
+<table class="table">
+    <tr>      
+        <th>
+          
+        </th>
+        <th>
+            Player Name
+        </th>
+
+        <th>
+           Description
+        </th>
+        <th>
+            National Team
+        </th>
+        <th>
+           Current Team
+        </th>
+        <th>
+           Playing Position
+        </th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="@Url.Content(item.Picture)" height="100" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Player_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.National_Team)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Current_Team)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Playing_Position)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID })|
+                @Html.ActionLink("Details", "Details", new { id = item.ID})|
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                
+             </td>
+        </tr>
+    }
+</table>

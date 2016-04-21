@@ -1,0 +1,246 @@
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\ApplicationInsights.config
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\csc.exe
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\vbc.exe
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll.config
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.pdb
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\EntityFramework.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Owin.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\WebGrease.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\EntityFramework.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.dll
+C:\Users\student\Desktop\Projects\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.pdb
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\ApplicationInsights.config
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\csc.exe
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\vbc.exe
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll.config
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.pdb
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\EntityFramework.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Owin.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\WebGrease.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.pdb
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\EntityFramework.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.csprojResolveAssemblyReference.cache
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.dll
+C:\Users\sega\Desktop\JUST IT\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.pdb
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\ApplicationInsights.config
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\csc.exe
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\vbc.exe
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll.config
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\TopFootballersDB.pdb
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\EntityFramework.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Owin.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\WebGrease.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.Web.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Helpers.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Mvc.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Optimization.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.Razor.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Antlr3.Runtime.pdb
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Newtonsoft.Json.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\EntityFramework.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\EntityFramework.SqlServer.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.csprojResolveAssemblyReference.cache
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.dll
+C:\Users\sega\Desktop\TopFootballersDB\TopFootballersDB\obj\Debug\TopFootballersDB.pdb

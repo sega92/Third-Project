@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TopFootballersDBModelStoreContainer" CdmEntityContainer="TopFootballersDBEntities">
+    <EntitySetMapping Name="TopFootballersTables">
+      <EntityTypeMapping TypeName="TopFootballersDBModel.TopFootballersTable">
+        <MappingFragment StoreEntitySet="TopFootballersTable">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Player_Name" ColumnName="Player Name" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Place_of_Birth" ColumnName="Place of Birth" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Playing_Position" ColumnName="Playing Position" />
+          <ScalarProperty Name="Current_Team" ColumnName="Current Team" />
+          <ScalarProperty Name="National_Team" ColumnName="National Team" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
